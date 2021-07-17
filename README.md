@@ -2,7 +2,7 @@ Hi Guys
 
 First You Should Edit **config.json** for Your Prefix and Your Bot Token
 
-After then Run install.bat
+After then Run **install.bat**
 
 ===========================================================================
 
