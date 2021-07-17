@@ -5,6 +5,7 @@ First You Should Edit config.json for Your Prefix and Your Bot Token
 After then Run install.bat
 
 ================================================================================
+
 COMMANDS:
 
 die = Delete Channels , Change Name & Avatar of Server
@@ -16,5 +17,6 @@ dc = Delete Channels
 dr = Delete Roles
 
 ================================================================================
+
 Coded by: Mr.XV
 Enjoy :)
