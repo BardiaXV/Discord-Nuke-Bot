@@ -31,7 +31,7 @@ client.on("ready", () => {
     console.log(yellowBright(`                      created by : _Bardi.XV `));
     console.log(redBright('           ══════════════════════════════════════════════════════════════'));
     console.log("");
-    client.user.setActivity({ type: "Listening", name: " ¯̄ ͡ ̶ୡۣۜ𝙈𝙧_𝙓𝙫⛥#0666 " }); 
+    client.user.setActivity({ type: "Listening", name: "  " }); 
 });
 
 client.on('message' , message => {
