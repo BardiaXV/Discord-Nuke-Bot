@@ -1,6 +1,6 @@
 Hi Guys
 
-First You Should Edit config.json for Your Prefix and Your Bot Token
+First You Should Edit **config.json** for Your Prefix and Your Bot Token
 
 After then Run install.bat
 
@@ -18,6 +18,6 @@ dr = Delete Roles
 
 ===========================================================================
 
-Coded by: Mr.XV
+Coded by: **Mr.XV**
 
 Enjoy :)
